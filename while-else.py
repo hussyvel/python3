@@ -4,5 +4,5 @@ while(x<10):
     x+=1
 else:
     print("False")
-    print("Deus é fiel")
-    print("Graças a ele estou conseguindo")
+    print("laço com while e else")
+    print("programming")
